@@ -1,0 +1,6 @@
+Si entro a problem_user, veo estos errores:
+Error (humano): El desarrollador se equivocó al cargar los datos de los productos en la base de datos y puso la misma ruta de imagen para todos.
+
+Defecto (código): En el código de la vista de productos, la etiqueta <img> de todos los artículos está vinculada al mismo archivo 
+
+Falla : Al entrar con problem_user, la polera, la chaqueta y la bicicleta muestran la foto de una mochila, rompiendo la experiencia visual de la tienda.
